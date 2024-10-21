@@ -1,4 +1,4 @@
-# Pythons-Two-Player-Pong-Game-Built
+# Python-Two-Player-Pong-Game
 Welcome to the Pong Game! This is a classic arcade-style game implemented in Python using the Turtle graphics library. Players control paddles to hit a bouncing ball and score points. The first player to reach a designated score wins the game.
 
 # Game Mechanics
